@@ -1,6 +1,6 @@
 
 
-Population Pyramid Chart
+## Population Pyramid Chart
 This project visualizes the distribution of a population across different age groups, distinguishing between male and female populations, and allowing for the differentiation between total, rural, and urban populations. It uses React, Chart.js, and D3.js to read, process, and visualize data from a CSV file in the form of a population pyramid chart.
 
 ### `Built With`
