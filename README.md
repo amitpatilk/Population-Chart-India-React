@@ -1,6 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Population Pyramid Chart
+This project visualizes the distribution of a population across different age groups, distinguishing between male and female populations, and allowing for the differentiation between total, rural, and urban populations. It uses React, Chart.js, and D3.js to read, process, and visualize data from a CSV file in the form of a population pyramid chart.
+
+### `Built With`
+React - The web framework used
+Chart.js and React Chartjs-2 - For rendering the charts
+D3.js - For data manipulation
 
 ## Available Scripts
 
@@ -39,4 +45,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+Screenshot for reference:
 ![Alt text for the image](images/image1.png)
