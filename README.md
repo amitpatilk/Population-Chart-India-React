@@ -1,2 +1,0 @@
-# Population-Graph-India-React
- 
